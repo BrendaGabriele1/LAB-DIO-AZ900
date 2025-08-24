@@ -30,8 +30,7 @@ A imagem abaixo apresenta uma comparação detalhada entre os custos de infraest
 
 A seguir, uma visão percentual dos custos totais de propriedade (TCO) para ambientes locais e em nuvem:
 
-📷 *Gráficos de pizza destacando a predominância dos custos com computação no Azure e a diversidade de gastos na infraestrutura local.*
-
+![Gráficos de pizza destacando a predominância dos custos com computação no Azure e a diversidade de gastos na infraestrutura local](./Previsão_de_Custos_3_Anos.jpg)
 ---
 
 ### 🧪 Simulações de Testes com Máquinas Virtuais
