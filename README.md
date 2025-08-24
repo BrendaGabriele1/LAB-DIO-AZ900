@@ -45,7 +45,7 @@ Utilizando a Calculadora de Preços do Azure, foram feitas simulações com dife
 | 4 testes | US$ 269,72       | 12h Testes Úteis |
 | 5 testes | US$ 337,15       | 12h Testes Úteis |
 
-📷 *Simulação de preços com diferentes cenários de uso*
+![Simulação de preços com diferentes cenários de uso](./Previsão_de_Custos_Máquina_Virtual.jpg)
 
 ---
 
