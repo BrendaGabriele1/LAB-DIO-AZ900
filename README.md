@@ -22,7 +22,7 @@ Estima os custos de máquinas virtuais e outros recursos com base em diferentes 
 
 A imagem abaixo apresenta uma comparação detalhada entre os custos de infraestrutura local e os custos na nuvem Azure:
 
-📷 *Discriminação de custos locais e na nuvem Azure, incluindo hardware, software, energia, armazenamento e mão de obra de TI.*
+![Discriminação de custos locais e na nuvem Azure, incluindo hardware, software, energia, armazenamento e mão de obra de TI.](./Resumo_Custo_Total.png)
 
 ---
 
