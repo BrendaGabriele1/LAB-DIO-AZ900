@@ -40,10 +40,10 @@ Utilizando a Calculadora de Preços do Azure, foram feitas simulações com dife
 | 🧪 Testes | 💸 Custo Estimado | 📋 Plano |
 |----------|------------------|----------|
 | 1 teste  | US$ 67,43        | Plano de economia |
-| 2 testes | US$ 134,86       | Benefício Híbrido do Azure |
-| 3 testes | US$ 202,29       | Plano de economia |
-| 4 testes | US$ 269,72       | 12h Testes Úteis |
-| 5 testes | US$ 337,15       | 12h Testes Úteis |
+| 2 teste  | US$ 134,86       | Benefício Híbrido do Azure |
+| 3 teste  | US$ 202,29       | Plano de economia |
+| 4 teste  | US$ 269,72       | 12h Testes Úteis |
+| 5 teste  | US$ 337,15       | 12h Testes Úteis |
 
 ![Simulação de preços com diferentes cenários de uso](./Previsão_de_Custos_Máquina_Virtual.jpg)
 
