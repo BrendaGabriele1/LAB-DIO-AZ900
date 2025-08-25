@@ -58,7 +58,7 @@ A análise mostra que **migrar para a nuvem Azure pode representar uma economia 
 ## 📎 Extras
 
 🔗 [Calculadora de Preços do Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)  
-🔗 [Calculadora de TCO do Azure](https://azure.microsoft.com/pt-br/pricing/tco-calculator/)
+🔗 [Calculadora de TCO do Azure](https://azure.microsoft.com/pt-br/pricing/tco/calculator/)
 
 ---
 
